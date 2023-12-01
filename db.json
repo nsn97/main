@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Denim Jacket",
+    "category": "Jackets",
+    "price": 49.99,
+    "image": "https://example.com/images/denim_jacket.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Women's Floral Dress",
+    "category": "Dresses",
+    "price": 39.99,
+    "image": "https://example.com/images/floral_dress.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Unisex Sneakers",
+    "category": "Shoes",
+    "price": 29.99,
+    "image": "https://example.com/images/sneakers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Men's Slim Fit Jeans",
+    "category": "Jeans",
+    "price": 59.99,
+    "image": "https://example.com/images/slim_fit_jeans.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Women's Striped Sweater",
+    "category": "Sweaters",
+    "price": 45.99,
+    "image": "https://example.com/images/striped_sweater.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kids' Cartoon T-Shirt",
+    "category": "T-Shirts",
+    "price": 19.99,
+    "image": "https://example.com/images/cartoon_tshirt.jpg"
+  }
+]
